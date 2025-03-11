@@ -33,3 +33,7 @@ JavaScript
 License
 
 This project is free for anyone to use, modify, and distribute.
+
+AUTHOR
+
+ANTONY GODWIN S
